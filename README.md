@@ -14,9 +14,9 @@
 
 #### TECH STACK
 
-|  HTML  |  CSS  |  Bootstrap  |  JavaScript  |  React  |  Python  |  Git  |  REST API  |  SQL Alchemy  |  SQL  | Postgre SQL  |
+|  HTML  |  CSS  |  Bootstrap  |  JavaScript  |  React  |  Python  |  Git  |  REST API  |  SQL Alchemy  |  SQL  | PostgreSQL  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  <img src="./assets:img/html.png" width="20" alt="HTML"/> | <img src="./assets:img/css.png" width="20" alt="CSS"/>  |  <img src="./assets:img/bootstrap.png" height="20" alt="Boostrap"/>  |  <img src="./assets:img/javascript.png" width="20" alt="JavaScript"/>  |  <img src="./assets:img/react-logo.png" width="20" alt="React JS"/> |   <img src="./assets:img/python-logo.png" width="20" alt="python"/>  |  <img src="./assets:img/git.png" width="20" alt="git"/>  | <img src="./assets:img/rest-api.png" width="20" alt="rest API"/>  |  <img src="./assets:img/sql-alchemy-logo.png" width="40" alt="SQL Alchemy"/>  | <img src="./assets:img/sql.png" width="20" alt="SQL"/>  | <img src="./assets:img/postgressql.png" width="20" alt="PostgreSQL"/>  |
+|  <img src="./assets:img/html.png" width="20" alt="HTML"/> | <img src="./assets:img/css.png" width="20" alt="CSS"/>  |  <img src="./assets:img/bootstrap.png" height="20" alt="Boostrap"/>  |  <img src="./assets:img/javascript.png" width="20" alt="JavaScript"/>  |  <img src="./assets:img/react-logo.png" width="20" alt="React JS"/> |   <img src="./assets:img/python-logo.png" width="20" alt="python"/>  |  <img src="./assets:img/git.png" width="20" alt="git"/>  | <img src="./assets:img/rest-api.png" width="20" alt="rest API"/>  |  <img src="./assets:img/sql-alchemy-logo.png" width="60" alt="SQL Alchemy"/>  | <img src="./assets:img/sql.png" width="40" alt="SQL"/>  | <img src="./assets:img/postgresql.png" width="20" alt="PostgreSQL"/>  |
 
 
 
