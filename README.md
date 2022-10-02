@@ -1,6 +1,6 @@
 # Hi everyone 👋🌵
 
-<img src="./fondo NEW LINK.png" alt="HTML"/>
+<img src="./assets:img/fetiche2.png" alt="HTML"/>
 
 
 > I'm Pedro Maldonado, a Fullstack web developer, mainly in love with Frontend development.
