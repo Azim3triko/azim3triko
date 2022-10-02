@@ -7,7 +7,7 @@
 
 - Open to work
 - 👨‍💻 I'm currently working freelance as a video editor.
-- If you want to contact me: <a href="https://www.linkedin.com/in/pedro-maldonado-tremont-362074106/"><img src="./assets/img/linkedin.png" width="15"> Linkedin</a>
+- If you want to contact me: <a href="https://www.linkedin.com/in/pedro-maldonado-tremont-362074106/"><img src="./assets:img/linkedin.png" width="15"> Linkedin</a>
 - 📍 Based in Venezuela. 
  
 ### ***I love challenges, so if you have one, please don't doubt to contact me ❤.***
