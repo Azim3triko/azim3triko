@@ -23,7 +23,7 @@
 
 |  VS Code  | AI | PS | PR | AE |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="./assets/img/vscode-logo.png" width="25" alt="VS Code"/> | <img src="./assets/img/ai-logo.png" width="20" alt="Adobe Illustrator"/>  |  <img src="./assets/img/ps-logo.png" height="20" alt="Photoshop"/>  |  <img src="./assets/img/premiere-pro-logo.png" height="20" alt="Premiere"/>  |  <img src="./assets/img/after-effects-cc-logo-png-transparent.png" width="20" alt="After Effects"/>  |
+| <img src="./assets:img/vscode-logo.png" width="25" alt="VS Code"/> | <img src="./assets/img:ai-logo.png" width="20" alt="Adobe Illustrator"/>  |  <img src="./assets:img/ps-logo.png" height="20" alt="Photoshop"/>  |  <img src="./assets:img/premiere-pro-logo.png" height="20" alt="Premiere"/>  |  <img src="./assets:img/after-effects-cc-logo-png-transparent.png" width="20" alt="After Effects"/>  |
 <br>
 
 #### MOTTO
