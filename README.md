@@ -30,6 +30,6 @@
 
 #### MOTTO
 
-### ***In Code We Trust!***
+### ***In Code We Trust! 	U+1F4BB ***
 
 
