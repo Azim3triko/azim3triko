@@ -3,7 +3,7 @@
 <img src="./assets:img/fetiche2.png" alt="HTML"/>
 
 
-> I'm Pedro Maldonado, a Fullstack web developer, mainly in love with Frontend development.
+> I'm Pedro Maldonado, a Fullstack Web Developer, mainly in love with Frontend Development.
 
 - Open to work
 - 👨‍💻 I'm currently working freelance as a video editor
